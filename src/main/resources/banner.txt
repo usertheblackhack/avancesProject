@@ -1,0 +1,14 @@
+${AnsiColor.RED}   //   ) )                                                                       ||   / /                                  
+${AnsiColor.RED}   //___/ /  ( )  ___      _   __      ___    __  ___  __     ( )  ___      ___    ||  / / ( )  ___     ( )  ___       __    
+${AnsiColor.RED}  / __  (   / / //   ) ) // ) )  ) ) //___) )  / /   //  ) ) / / //   ) ) ((   ) ) || / / / / ((   ) ) / / //   ) ) //   ) ) 
+${AnsiColor.BLUE} //    ) ) / / //   / / // / /  / / //        / /   //      / / //         \ \     ||/ / / /   \ \    / / //   / / //   / /  
+${AnsiColor.BLUE}//____/ / / / ((___/ / // / /  / / ((____    / /   //      / / ((____   //   ) )   |  / / / //   ) ) / / ((___/ / //   / /   
+${AnsiColor.DEFAULT}
+
+${AnsiColor.RED}.------.${AnsiColor.BLACK}.------.
+${AnsiColor.RED}|A.--. |${AnsiColor.BLACK}|K.--. |
+${AnsiColor.RED}| (\/) |${AnsiColor.BLACK}| (\/) |
+${AnsiColor.RED}| :\/: |${AnsiColor.BLACK}| :\/: |
+${AnsiColor.RED}| '--'A|${AnsiColor.BLACK}| '--'K|
+${AnsiColor.RED}`------'${AnsiColor.BLACK}`------'
+${AnsiColor.DEFAULT}
